@@ -1,0 +1,43 @@
+body {
+    background-color: #232D3F;
+    color: #ffffff;
+}
+
+.container {
+    background-color: #232D3F;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form-group label {
+    color: #ffffff;
+}
+
+.form-control {
+    background-color: #232D3F;
+    color: #ffffff;
+}
+
+.table {
+    background-color: #232D3F;
+    color: #ffffff;
+}
+
+.btn-primary:hover {
+    background-color: #232D3F;
+    border-color: #ffffff;
+}
+
+.btn-primary {
+    color: #1A1B1B;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.dates {
+    background-color: #232D3F !important;
+}
+
+.dates:focus {
+    background-color: #ffffff !important;
+}
